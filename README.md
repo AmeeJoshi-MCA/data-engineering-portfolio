@@ -1,17 +1,17 @@
-# 🧩 Amee Joshi — Data Engineering & Analytics Portfolio
+# 🧩 Amee Joshi — Data Engineering  Portfolio
 
-Welcome to my Data Engineering & Analytics portfolio.  
+Welcome to my Data Engineering  portfolio.  
 This repository is a **curated collection of real-world, end-to-end data projects** demonstrating my ability to work across the **entire data lifecycle** — from **raw data ingestion** and **scalable data pipelines** to **analytics and business reporting**.
 
 ---
 
 ## 👩‍💻 About Me
 
-I am a **Data Engineer & Data Analyst** with **8+ years of professional experience as an Android Developer**, where I worked extensively on the **full application lifecycle** — requirement gathering, system design, development, testing, deployment, and production support via the Google Play Store.
+I am a **Data Engineer ** with **8+ years of professional experience as an Android Developer**, where I worked extensively on the **full application lifecycle** — requirement gathering, system design, development, testing, deployment, and production support via the Google Play Store.
 
 I have transitioned into the **data domain** to focus on building **modern data platforms, cloud data pipelines, and analytics solutions**, applying strong engineering principles to deliver **production-ready, business-driven data systems**.
 
-I am currently engaged as an **Independent Data Engineering & Analytics Consultant**, building **industry-ready, end-to-end data solutions** with a strong focus on **cloud data platforms, scalable pipelines, and business analytics.**
+I am currently engaged as an **Independent Data Engineering Consultant**, building **industry-ready, end-to-end data solutions** with a strong focus on **cloud data platforms, scalable pipelines, and business analytics.**
 
 ---
 
