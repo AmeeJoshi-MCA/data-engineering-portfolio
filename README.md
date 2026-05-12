@@ -7,7 +7,7 @@ This repository is a **curated collection of real-world, end-to-end data project
 
 ## 👩‍💻 About Me
 
-I am a **Data Engineer ** with **8+ years of professional experience as an Android Developer**, where I worked extensively on the **full application lifecycle** — requirement gathering, system design, development, testing, deployment, and production support via the Google Play Store.
+I am a **Data Engineer** with **8+ years of professional experience as an Android Developer**, where I worked extensively on the **full application lifecycle** — requirement gathering, system design, development, testing, deployment, and production support via the Google Play Store.
 
 I have transitioned into the **data domain** to focus on building **modern data platforms, cloud data pipelines, and analytics solutions**, applying strong engineering principles to deliver **production-ready, business-driven data systems**.
 
